@@ -1,6 +1,6 @@
 {
-	"name": "svelte-cubed",
-	"version": "0.2.1",
+	"name": "svelte-cubed-next",
+	"version": "0.0.1",
 	"scripts": {
 		"dev": "svelte-kit dev",
 		"build": "svelte-kit build",
